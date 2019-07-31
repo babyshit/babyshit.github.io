@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pages.red</id>
     <title>绯页.</title>
-    <updated>2019-07-31T06:30:44.376Z</updated>
+    <updated>2019-07-31T07:17:40.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://pages.red"/>
     <link rel="self" href="http://pages.red/atom.xml"/>
@@ -10,4 +10,240 @@
     <logo>http://pages.red/images/avatar.png</logo>
     <icon>http://pages.red/favicon.ico</icon>
     <rights>All rights reserved 2019, 绯页.</rights>
+    <entry>
+        <title type="html"><![CDATA[MacOS开源软件合集]]></title>
+        <id>http://pages.red/post/macos-kai-yuan-ruan-jian-he-ji</id>
+        <link href="http://pages.red/post/macos-kai-yuan-ruan-jian-he-ji">
+        </link>
+        <updated>2019-07-31T06:51:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>这些免费开源又好用的软件，你值得入手。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这些免费开源又好用的软件，你值得入手。</p>
+ <!-- more --> 
+<p>Pap.er：http://paper.meiyuan.in/</p>
+<p>App Cleaner：http://freemacsoft.net/appcleaner/</p>
+<p>The Unarchive：https://theunarchiver.com/</p>
+<p>IINA：https://github.com/lhc70000/iina</p>
+<p>Karabiner Elements：<br>
+https://github.com/tekezo/Karabiner-Elements</p>
+<p>Lunar：https://github.com/alin23/lunar</p>
+<p>Backgronud Music：音频调整程序，点开视频时会自动暂停正在播放的音乐，还可以分别调整不同应用的音量以及音频设置<br>
+https://github.com/kyleneideck/BackgroundMusic</p>
+<p>Sonora：小且精美的 macOS 音乐播放器<br>
+https://github.com/sonoramac/Sonora</p>
+<p>CAM：使用 iMac 或者 MacBook 的摄像头进行视频录制<br>
+https://github.com/hanayik/CAM</p>
+<p>Fre:ac：ac 音频转换<br>
+https://github.com/enzo1982/freac</p>
+<p>LyricsX 2.0：一款 iTunes 插件，用于在桌面显示歌词<br>
+https://github.com/MichaelRow/Lyrics</p>
+<p>Muse：支持 TouchBar 的开源 Spotify 控制器<br>
+https://github.com/xzzz9097/Muse</p>
+<p>Tickeys：macOS 按键音，让你用蝶式键盘也能打出机械键盘的感觉。<br>
+https://github.com/yingDev/Tickeys</p>
+<p>Mackup：保持应用程序的设置同步<br>
+https://github.com/lra/mackup</p>
+<p>shallow-backup：轻松地创建轻量级的应用程序、安装包、字体等的备份<br>
+https://github.com/alichtman/shallow-backup</p>
+<p>browserosaurus：在打开连接时会提醒你选择浏览器的工具<br>
+https://github.com/beakerbrowser/beaker</p>
+<p>Get It：一个可以下载 YouTube 视频的音频、视频下载器<br>
+https://github.com/Kevin-De-Koninck/Get-It</p>
+<p>Youtube Downloader ：也是 YouTube 视频下载器<br>
+https://github.com/onmyway133/YoutubeDownloader</p>
+<p>MacDown：开源的 Markdown 编辑器<br>
+https://github.com/MacDownApp/macdown</p>
+<p>CotEditor：macOS 的轻量级纯文本编辑器<br>
+https://github.com/coteditor/CotEditor</p>
+<p>Noto：具有可自定义主题的 macOS 文本编辑器<br>
+https://github.com/brunophilipe/noto</p>
+<p>Aseprite：像素艺术工具<br>
+https://github.com/aseprite/aseprite</p>
+<p>CaptuocrToy：通过在线ocr apis捕获屏幕截图和识别文本的工具<br>
+https://github.com/gragrance/CaptuocrToy</p>
+<p>GifCapture：Gif 捕获应用程序。<br>
+https://github.com/onmyway133/GifCapture</p>
+<p>Gifcurry：可以剪裁、添加文本等的 Gif 编辑器<br>
+https://github.com/lettier/gifcurry</p>
+<p>Gifski：视频 Gif 转换器<br>
+https://github.com/sindresorhus/gifski-app</p>
+<p>ScreenToLayers：获取屏幕截图并可生成分层的 PSD 文件<br>
+https://github.com/duyquoc/ScreenToLayers</p>
+<p>Freehand：状态栏下的草图绘制工具<br>
+https://github.com/wddwycc/Freehand</p>
+<p>Imagine：PNG、JEPG 图片压缩工具<br>
+https://github.com/meowtec/Imagine</p>
+<p>PhotoMiner：查找磁盘中照片的工具<br>
+https://github.com/gergelysanta/photominer</p>
+<p>WebPonize：用于将 PNG、JEPG 转化为 WebP 的工具<br>
+https://github.com/1000ch/WebPonize</p>
+<p>Kawa：输入源切换器<br>
+https://github.com/utatti/kawa</p>
+<p>Thor：应用程序切换器<br>
+https://github.com/gbammc/Thor</p>
+<p>DatWeatherDoe：简洁的菜单栏天气应用程序<br>
+https://github.com/inderdhir/DatWeatherDoe</p>
+<p>gfxCardStatus：独显/集显切换器<br>
+https://github.com/codykrieger/gfxCardStatus</p>
+<p>MenuMeters：CPU、内存、磁盘、网络监视器<br>
+https://github.com/yujitach/MenuMeters</p>
+<p>SensibleSideButtons：可以让鼠标的侧边按钮在第三方应用程序中进行导航的应用程序<br>
+https://github.com/archagon/sensible-side-buttons</p>
+<p>iTunes Graphs：将 iTunes 图形资料库可视化的工具<br>
+https://github.com/Zac-Garby/iTunes-Graphs</p>
+<p>FromScratch：可以用作快速笔记或 Todo list 的应用程序<br>
+https://github.com/Kilian/fromscratch</p>
+<p>Notable：轻量级的笔记应用<br>
+https://github.com/jmcfarlane/notable</p>
+<p>Ao：界面优雅的 Todo 桌面应用<br>
+https://github.com/klauscfhq/ao</p>
+<p>ClipMenu：macOS 的剪贴板管理器<br>
+https://github.com/naotaka/ClipMenu</p>
+<p>Maccy：轻量级的剪贴板搜索管理工具<br>
+https://github.com/p0deje/Maccy</p>
+<p>A simple Timer：简单的计时应用<br>
+https://github.com/michaelvillar/timer-app</p>
+<p>Irvue：macOS 屏幕保护程序<br>
+https://github.com/leonspok/Irvue-Screensaver</p>
+<p>Apple Juice：电池电量管理应用<br>
+https://github.com/raphaelhanneken/apple-juice</p>
+<p>AppPolice：内存管理器<br>
+https://github.com/fuyu/AppPolice</p>
+<p>DisableMonitor：轻松禁用或启用显示器<br>
+https://github.com/Eun/DisableMonitor</p>
+<p>HandBrake：视频转码器<br>
+https://github.com/HandBrake/HandBrake</p>
+<p>BingPaper：使用 Bing 每日照片作为壁纸<br>
+https://github.com/pengsrc/BingPaper</p>
+<p>Desktop Wallpaper Switcher：壁纸管理切换工具<br>
+https://github.com/VioletGiraffe/desktop-wallpaper-switcher</p>
+<p>Sunscreen：根据日出日落改变壁纸的应用<br>
+https://github.com/davidcelis/Sunscreen</p>
+<p>pyDailyChanger：每日更换壁纸的工具<br>
+https://github.com/IngoHeimbach/pyDailyChanger</p>
+<p>Slate：窗口管理工具<br>
+https://github.com/jigish/slate</p>
+<p>Spectacle：允许在不使用图标的情况下整理窗口<br>
+https://github.com/eczarny/spectacle</p>
+<p>chunkwm：使用插件架构的窗口管理工具<br>
+https://github.com/koekeishiya/chunkwm</p>
+<blockquote>
+<p>本文内容来源<a href="http://api.socialbase.cn/extapi/content/TGPOW3CFZKLLMPDQYVDR2QEHMAPECAG6R5QUZ7WHTRWUJAMY77NA====/7JRNGVBZSGOZG7LINQXELSCA7CJEAGOYXXIVXVJ5EMVRD76UIZCA====/?hello=world&amp;from=singlemessage&amp;isappinstalled=0">少数派</a></p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac及iOS应用推荐]]></title>
+        <id>http://pages.red/post/mac-ji-ios-ying-yong-tui-jian</id>
+        <link href="http://pages.red/post/mac-ji-ios-ying-yong-tui-jian">
+        </link>
+        <updated>2019-07-31T06:48:33.000Z</updated>
+        <summary type="html"><![CDATA[<p>这里推荐一些笔者常用的一些应用，主要是iOS和Mac的，会常更新，有破解的会说，但是破解也就是试用下，好的软件尤其是常更新的，和数据相关的还是付费购买下，支持下作者。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这里推荐一些笔者常用的一些应用，主要是iOS和Mac的，会常更新，有破解的会说，但是破解也就是试用下，好的软件尤其是常更新的，和数据相关的还是付费购买下，支持下作者。</p>
+<!-- more -->
+<h1 id="效率应用">效率应用</h1>
+<p><strong>滴答清单</strong><br>
+全平台<br>
+老牌GTD，均衡全面，新版本加入了番茄，支持Siri和捷径，同时全平台支持，随时在Mac和Win上同步，有订阅制内购，可以开启日历视图。更新频次很好，专业简单，免费版本已经够用。<br>
+<strong>Due</strong><br>
+iOS/Mac<br>
+相对于其他待办事项和清单类App，Due非常简单，一切的功能设计围绕“提醒”来设计，应该是目前快速添加提醒最快捷的应用了，但是功能较为基础，适合琐碎事情的管理，没有分组和架构功能，适合个人使用，无法进行团队项目跟踪，对，另外是不支持小部件展示。<br>
+<strong>Sorted3</strong><br>
+iOS<br>
+算是笔者购买过最贵的GTD应用了，内购解锁98，无免费版本。非常易用，独创的时间轴，让安排时间可以批量操作，非常适合事情很多的大佬使用，同时有标签、分组、还支持Markdown，是个个人使用兼顾工作管理的应用。<br>
+<strong>Things</strong><br>
+iOS/Mac<br>
+非常老牌，常年被Store推荐，个人也付费购买过，适合重度事项管理，更适合团队协作和办公使用，功能全面强大，并不适合轻量使用。</p>
+<hr>
+<h1 id="工具应用">工具应用</h1>
+<p><strong>Bettertouchtool</strong><br>
+Mac<br>
+使用MBP几乎必备的手势操作软件，让你彻底丢掉鼠标，享受Mac的触控板。网上的破解版几乎不能用，需要大概30R来付费解锁。<br>
+<strong>CmdTap</strong><br>
+Mac<br>
+应用切换工具，让你的Command+Tab切换的时候以首字母来快速切换，比如切换微信Command+Tab+W，切换Chrome是Command+Tab+C，大大提高效率，必备，有破解，付费也就几块钱我记得。<br>
+<strong>Alfred</strong><br>
+Mac<br>
+应该是用过Mac的都听过吧，但是很多人没用，可能上手不是那么简单，且没中文，但是值得一试，神级软件，支持workflow的启动器，无法言说的强大，有破解。<br>
+<strong>Appcleaner</strong><br>
+Mac<br>
+简单轻量，Mac其实不需要什么大型优化软件，日常用它卸载程序清理垃圾即可。<br>
+<strong>Space Drop</strong><br>
+Mac<br>
+有破解，也是几乎必备的小工具， 在Mac生成一个拖拽区，方便拖拽和对文件进行操作，非常简单好用，使用频率很高。<br>
+<strong>Hazeover</strong><br>
+Mac<br>
+淘宝上买大概只要20多块，有效提升你的注意力，会凸显当前应用窗口，弱化其他任务窗口，辅助性小工具。<br>
+<strong>Typora</strong><br>
+Mac/Win<br>
+非常著名的Markdown软件，开源免费，内容工作者和前端必备。<br>
+<strong>Rocketvpn</strong><br>
+Mac<br>
+可能上是Mac上最简单的梯子了，Store可以下载，价格普通，但是速度不错，不像SS需要配置，完全小白化。<br>
+<strong>Xmind</strong><br>
+全平台<br>
+不多说，老牌思维导图软件。<br>
+<strong>印象笔记</strong><br>
+全平台<br>
+不多说，老牌知识管理工具。<br>
+<strong>Pocket</strong><br>
+全平台<br>
+稍后阅读应用，与印象笔记不同，更轻量，更简单，搭配使用。<br>
+<strong>Downie3</strong><br>
+Mac<br>
+Mac上最简单的视频下载软件，不多说，有破解。<br>
+<strong>IINA</strong><br>
+Mac<br>
+开源免费的视频软件，甩QuickTime几百条街。<br>
+<strong>Maipo</strong><br>
+Mac<br>
+Mac上最好的微博软件。</p>
+<h1 id="设计工具">设计工具</h1>
+<p><strong>Adobe XD</strong><br>
+Mac/Win<br>
+高保真原型和UI设计师必备，Sketch的有力竞争对手。<br>
+<strong>PxCook</strong><br>
+全平台<br>
+国内有名的设计师软件，有Sketch和Xd的插件，做设计师的必备。<br>
+<strong>蓝湖</strong><br>
+全平台<br>
+也是国内有名的设计协作平台，有各种插件，个人觉得跟Pxcook各有千秋吧。<br>
+<strong>Hellofont</strong><br>
+Mac/Win<br>
+好用的字体挂载软件，BUT请各位谨慎使用，注意字体版权啊。<br>
+<strong>ImageOptim</strong><br>
+Mac<br>
+简单，图片拖进去批量压缩，快速轻便。<br>
+<strong>Eagle</strong><br>
+Mac/Win<br>
+设计师必备的素材管理软件，构建你自己的素材网络，新版支持了字体管理，挺好用的，98解锁没破解，学生证可以半价买（借的也行）。<br>
+<strong>Gifski</strong><br>
+Mac<br>
+Xclient上就可以下载，免费，简单到爆炸，把任意视频拖进去，转换成Gif，作为内容工作者必备。<br>
+<strong>iPic</strong><br>
+Mac<br>
+一键上传到图床并生成外链，有时候挺有用的。<br>
+<strong>Picsew</strong><br>
+iOS<br>
+之前公众号出过一篇横向评测几款长截图的应用，综合起来这个最好，Tailor也不错。<br>
+<strong>Snapseed</strong><br>
+iOS/安卓<br>
+谷歌出品，基本属于精品。与国内的夸张美颜和滤镜不同，是个真正用来调整照片的App。<br>
+<strong>Cuto/克拉壁纸/Frame</strong><br>
+iOS<br>
+这三个都是iOS上的壁纸应用，作为一个壁纸控，这三个我一直留着哪个都不想删。<br>
+<strong>相册管家</strong><br>
+iOS/安卓<br>
+可能是手机上最良心和好用的同步软件了，不付费用着也很舒服。<br>
+<strong>Pico</strong><br>
+iOS<br>
+作为一个应用狂魔，这个图片标注工具是在我从十来个同类工具里最后挑出来的一个，如果你需要一个移动端图片标注工具，那就是他了。<br>
+<strong>泼辣修图</strong><br>
+全平台<br>
+相对于别的手机修图软件，更加专业一点，介于PS和一般美图应用之间吧，支持全平台，需要付费，笔者幸运的之前买到了终身版账号。</p>
+<p>以上提到的Mac应用大多可以在 <a href="https://xclient.info/">Xclient</a>和<a href="https://www.waerfa.com/">Mac玩法</a>下载到。<br>
+暂时先写这些，等我把收藏夹整理完，在进行素材和PC端线上的一些资源推荐，下篇主要是 一些网站和设计插件推荐。</p>
+]]></content>
+    </entry>
 </feed>
