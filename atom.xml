@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://pages.red</id>
+    <id>https://pages.red</id>
     <title>Pages.Red</title>
-    <updated>2019-08-01T00:44:37.964Z</updated>
+    <updated>2019-08-01T00:49:34.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://pages.red"/>
-    <link rel="self" href="http://pages.red/atom.xml"/>
+    <link rel="alternate" href="https://pages.red"/>
+    <link rel="self" href="https://pages.red/atom.xml"/>
     <subtitle>应用 / 收藏 / 想法</subtitle>
-    <logo>http://pages.red/images/avatar.png</logo>
-    <icon>http://pages.red/favicon.ico</icon>
+    <logo>https://pages.red/images/avatar.png</logo>
+    <icon>https://pages.red/favicon.ico</icon>
     <rights>All rights reserved 2019, Pages.Red</rights>
     <entry>
         <title type="html"><![CDATA[提高你的Mac生产力]]></title>
-        <id>http://pages.red/post/ti-gao-ni-de-mac-sheng-chan-li</id>
-        <link href="http://pages.red/post/ti-gao-ni-de-mac-sheng-chan-li">
+        <id>https://pages.red/post/ti-gao-ni-de-mac-sheng-chan-li</id>
+        <link href="https://pages.red/post/ti-gao-ni-de-mac-sheng-chan-li">
         </link>
         <updated>2019-07-31T08:11:05.000Z</updated>
         <summary type="html"><![CDATA[<p>MacOS作为优秀的生产力系统，在基础的上手之后，还有很多没有注意的小设置、小技巧可以学习，一些好用的应用也能协助你有效提高生产力，本文主要是列举一些小技巧和应用推荐。</p>
@@ -27,11 +27,11 @@ https://ibeta.me/<br>
 <h3 id="生产环境优化">生产环境优化</h3>
 <p><strong>系统易用性设置优化</strong><br>
 系统偏好设置-程序坞<br>
-<img src="http://pages.red/post-images/1564560871973.png" alt=""><br>
+<img src="https://pages.red/post-images/1564560871973.png" alt=""><br>
 系统偏好设置-节能-电源适配器<br>
-<img src="http://pages.red/post-images/1564561632568.png" alt=""><br>
+<img src="https://pages.red/post-images/1564561632568.png" alt=""><br>
 屏幕保护程序-触发角设置<br>
-<img src="http://pages.red/post-images/1564561938825.png" alt=""></p>
+<img src="https://pages.red/post-images/1564561938825.png" alt=""></p>
 <p><strong>办公场景推荐</strong><br>
 GTD应用</p>
 <p>番茄工作法</p>
@@ -42,7 +42,7 @@ GTD应用</p>
 <p>动态壁纸的下载和设置</p>
 <p>无敌好用的快捷键<br>
 核心修饰键<br>
-<img src="http://pages.red/post-images/1564561667219.png" alt=""><br>
+<img src="https://pages.red/post-images/1564561667219.png" alt=""><br>
 快捷键显示app CheatSheet<br>
 cmd+M 最小化<br>
 cmd+Q 退出<br>
@@ -52,8 +52,8 @@ cmd+，设置</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[MacOS开源软件合集]]></title>
-        <id>http://pages.red/post/macos-kai-yuan-ruan-jian-he-ji</id>
-        <link href="http://pages.red/post/macos-kai-yuan-ruan-jian-he-ji">
+        <id>https://pages.red/post/macos-kai-yuan-ruan-jian-he-ji</id>
+        <link href="https://pages.red/post/macos-kai-yuan-ruan-jian-he-ji">
         </link>
         <updated>2019-07-31T06:51:13.000Z</updated>
         <summary type="html"><![CDATA[<p>这些免费开源又好用的软件，你值得入手。</p>
@@ -174,8 +174,8 @@ https://github.com/koekeishiya/chunkwm</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mac及iOS应用推荐]]></title>
-        <id>http://pages.red/post/mac-ji-ios-ying-yong-tui-jian</id>
-        <link href="http://pages.red/post/mac-ji-ios-ying-yong-tui-jian">
+        <id>https://pages.red/post/mac-ji-ios-ying-yong-tui-jian</id>
+        <link href="https://pages.red/post/mac-ji-ios-ying-yong-tui-jian">
         </link>
         <updated>2019-07-31T06:48:33.000Z</updated>
         <summary type="html"><![CDATA[<p>这里推荐一些笔者常用的一些应用，主要是iOS和Mac的，会常更新，有破解的会说，但是破解也就是试用下，好的软件尤其是常更新的，和数据相关的还是付费购买下，支持下作者。</p>
