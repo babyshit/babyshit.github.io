@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pages.red</id>
-    <title>Pages.Red</title>
-    <updated>2019-08-01T09:07:48.872Z</updated>
+    <title>pages.red</title>
+    <updated>2019-08-02T06:58:22.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pages.red"/>
     <link rel="self" href="https://pages.red/atom.xml"/>
     <subtitle>应用 / 收藏 / 想法</subtitle>
     <logo>https://pages.red/images/avatar.png</logo>
     <icon>https://pages.red/favicon.ico</icon>
-    <rights>All rights reserved 2019, Pages.Red</rights>
+    <rights>All rights reserved 2019, pages.red</rights>
     <entry>
         <title type="html"><![CDATA[提高你的Mac生产力]]></title>
         <id>https://pages.red/post/ti-gao-ni-de-mac-sheng-chan-li</id>
@@ -37,7 +37,10 @@ https://ibeta.me/<br>
 <strong>一些实用技巧</strong><br>
 MB合上盖子后未睡眠和发热耗电的解决办法</p>
 <p>使用Mac将有线网络热点共享</p>
-<p>快捷键和手势</p>
+<p><strong>快捷键和手势</strong><br>
+快捷键显示 CheatSheet<br>
+手势自定义bettertouuchtool<br>
+国产良心 betterandbetter</p>
 <h3 id="办公场景推荐">办公场景推荐</h3>
 <p><strong>设计类</strong><br>
 axure+sketch+xd<br>
@@ -50,7 +53,6 @@ runner 必备 相当于sketch的</p>
 <p>Markdown写作</p>
 <p>协作应用推荐</p>
 <p>动态壁纸的下载和设置</p>
-<p>快捷键显示app CheatSheet</p>
 ]]></content>
     </entry>
     <entry>
