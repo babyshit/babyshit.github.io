@@ -193,7 +193,7 @@
 .markdown code,
 .markdown tt {
   padding: 1px 3px;
-  font-family: Inconsolata, monospace, sans-serif;
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier, monospace;
   white-space: pre-wrap;
   border: 1px solid #E3EDF3;
   background: #f7f7f9;
@@ -210,7 +210,7 @@
   border: 1px solid #E3EDF3;
   width: 100%;
   padding: 10px;
-  font-family: Inconsolata, monospace, sans-serif;
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier, monospace;
   font-size: 0.9em;
   white-space: pre;
   overflow: auto;
@@ -570,13 +570,6 @@
 .markdown .codehilite .sd {
   color: #CD5555;
 }
-/*!
- * animate.css -http://daneden.me/animate
- * Version - 3.5.1
- * Licensed under the MIT license - http://opensource.org/licenses/MIT
- *
- * Copyright (c) 2016 Daniel Eden
- */
 .animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
@@ -3550,6 +3543,9 @@ body {
 p {
   line-height: 1.9em;
   font-weight: 400;
+  word-break: normal;
+  word-wrap: break-word;
+  text-align: justify;
   margin: 0;
 }
 a {
@@ -3617,11 +3613,11 @@ h6 {
   float: left;
 }
 .header .site_title_container .site_title a {
-  font-size: 28px;
+  font-size: 30px;
   width: 65px;
-  letter-spacing: 2px;
   line-height: 1.2;
   color: #000;
+  font-family: Arial, sans-serif;
 }
 .header .site_title_container .site_title a:hover {
   color: #666;
@@ -3784,7 +3780,7 @@ h6 {
 .footer .footer_slogan {
   padding-top: 25px;
   padding-bottom: 10px;
-  color: #000;
+  color: #333;
   font-size: 16px;
   letter-spacing: 1px;
 }
@@ -4065,7 +4061,7 @@ em {
 .markdown em {
   padding: 1px 2px;
   background-color: #f7f7f7;
-  font-weight: normal;
+  font-weight: bolder;
 }
 @media screen and (max-width: 900px) {
   .main {
@@ -4206,11 +4202,4 @@ em {
   margin: 0 30px 20px 0;
   background: #f7f7f7;
   border-bottom: 0;
-}
-.post-feature-image {
-  padding-top: 56.25%;
-  background-size: cover;
-  background-position: center;
-  margin-bottom: 24px;
-  border-radius: 2px;
 }
