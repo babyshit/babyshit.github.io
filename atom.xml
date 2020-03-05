@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://pages.red</id>
+    <id>https://emo.ink</id>
     <title>Pages.Red</title>
-    <updated>2020-03-03T06:13:11.367Z</updated>
+    <updated>2020-03-05T08:18:14.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://pages.red"/>
-    <link rel="self" href="https://pages.red/atom.xml"/>
+    <link rel="alternate" href="https://emo.ink"/>
+    <link rel="self" href="https://emo.ink/atom.xml"/>
     <subtitle>应用 / 收藏 / 想法</subtitle>
-    <logo>https://pages.red/images/avatar.png</logo>
-    <icon>https://pages.red/favicon.ico</icon>
+    <logo>https://emo.ink/images/avatar.png</logo>
+    <icon>https://emo.ink/favicon.ico</icon>
     <rights>All rights reserved 2020, Pages.Red</rights>
     <entry>
         <title type="html"><![CDATA[提高你的Mac生产力]]></title>
-        <id>https://pages.red/post/ti-gao-ni-de-mac-sheng-chan-li/</id>
-        <link href="https://pages.red/post/ti-gao-ni-de-mac-sheng-chan-li/">
+        <id>https://emo.ink/post/ti-gao-ni-de-mac-sheng-chan-li/</id>
+        <link href="https://emo.ink/post/ti-gao-ni-de-mac-sheng-chan-li/">
         </link>
         <updated>2019-07-31T08:11:05.000Z</updated>
         <summary type="html"><![CDATA[<p>把你的Mac通过设置和应用武装起来，能够有效提高生产力。本文主要是列举一些小技巧和应用推荐，有了这些，你的Mac才是『完全体』。</p>
@@ -27,13 +27,13 @@ https://ibeta.me/<br>
 <h3 id="生产环境优化">生产环境优化</h3>
 <p><strong>系统易用性设置优化</strong><br>
 系统偏好设置-程序坞<br>
-<img src="https://pages.red/post-images/1564560871973.png" alt="" loading="lazy"><br>
+<img src="https://emo.ink/post-images/1564560871973.png" alt="" loading="lazy"><br>
 系统偏好设置-节能-电源适配器<br>
-<img src="https://pages.red/post-images/1564561632568.png" alt="" loading="lazy"><br>
+<img src="https://emo.ink/post-images/1564561632568.png" alt="" loading="lazy"><br>
 屏幕保护程序-触发角设置<br>
-<img src="https://pages.red/post-images/1564561938825.png" alt="" loading="lazy"><br>
+<img src="https://emo.ink/post-images/1564561938825.png" alt="" loading="lazy"><br>
 核心修饰键<br>
-<img src="https://pages.red/post-images/1564561667219.png" alt="" loading="lazy"></p>
+<img src="https://emo.ink/post-images/1564561667219.png" alt="" loading="lazy"></p>
 <p><strong>快捷键和手势</strong><br>
 快捷键显示 CheatSheet<br>
 手势自定义 Bettertouuchtool<br>
@@ -110,8 +110,8 @@ Rain sound</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[MacOS开源软件合集]]></title>
-        <id>https://pages.red/post/macos-kai-yuan-ruan-jian-he-ji/</id>
-        <link href="https://pages.red/post/macos-kai-yuan-ruan-jian-he-ji/">
+        <id>https://emo.ink/post/macos-kai-yuan-ruan-jian-he-ji/</id>
+        <link href="https://emo.ink/post/macos-kai-yuan-ruan-jian-he-ji/">
         </link>
         <updated>2019-07-31T06:51:13.000Z</updated>
         <summary type="html"><![CDATA[<p>这些免费开源又好用的软件，你值得入手。</p>
@@ -232,8 +232,8 @@ https://github.com/koekeishiya/chunkwm</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mac及iOS应用推荐]]></title>
-        <id>https://pages.red/post/mac-ji-ios-ying-yong-tui-jian/</id>
-        <link href="https://pages.red/post/mac-ji-ios-ying-yong-tui-jian/">
+        <id>https://emo.ink/post/mac-ji-ios-ying-yong-tui-jian/</id>
+        <link href="https://emo.ink/post/mac-ji-ios-ying-yong-tui-jian/">
         </link>
         <updated>2019-07-31T06:48:33.000Z</updated>
         <summary type="html"><![CDATA[<p>这里推荐一些笔者常用的一些应用，主要是iOS和Mac的，会常更新，有破解的会说，但是破解也就是试用下，好的软件尤其是常更新的，和数据相关的还是付费购买下，支持下作者。</p>
