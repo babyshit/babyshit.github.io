@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://emo.ink</id>
-    <title>Pages.Red</title>
-    <updated>2020-03-05T08:18:14.185Z</updated>
+    <title>emo.ink 情绪印刻</title>
+    <updated>2020-03-05T09:09:31.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://emo.ink"/>
     <link rel="self" href="https://emo.ink/atom.xml"/>
-    <subtitle>应用 / 收藏 / 想法</subtitle>
+    <subtitle>Time flies into song, time passes like flowers.</subtitle>
     <logo>https://emo.ink/images/avatar.png</logo>
     <icon>https://emo.ink/favicon.ico</icon>
-    <rights>All rights reserved 2020, Pages.Red</rights>
+    <rights>All rights reserved 2020, emo.ink 情绪印刻</rights>
     <entry>
         <title type="html"><![CDATA[提高你的Mac生产力]]></title>
         <id>https://emo.ink/post/ti-gao-ni-de-mac-sheng-chan-li/</id>
