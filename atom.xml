@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://babyshit.github.io</id>
     <title>Gridea</title>
-    <updated>2021-04-14T03:45:31.808Z</updated>
+    <updated>2021-08-19T03:00:24.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://babyshit.github.io"/>
     <link rel="self" href="https://babyshit.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://babyshit.github.io/images/avatar.png</logo>
     <icon>https://babyshit.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[侧]]></title>
+        <id>https://babyshit.github.io/post/ce/</id>
+        <link href="https://babyshit.github.io/post/ce/">
+        </link>
+        <updated>2021-04-14T03:46:10.000Z</updated>
+        <content type="html"><![CDATA[<p>猜到</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://babyshit.github.io/post/hello-gridea/</id>
